@@ -1,8 +1,9 @@
-# Title: Phator/hosts
-#
-# This hosts file is a collection of hosts designed to block access for children,
-#
-# ===============================================================
+# ==================================================================================#
+# Title: Phator/hosts                                                               #
+#                                                                                   #
+# This hosts file is a collection of hosts designed to block access for children,   #
+#                                                                                   #
+# ==================================================================================#
 
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
@@ -19,14 +20,12 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-# Custom host records are listed here.
-
-
-# End of custom host records.
-# Start StevenBlack
-
-#=====================================
-# Title: Hosts contributed by Phator
+#=====================================#
+# Title: Hosts contributed by Phator  #
+#=====================================#
 
 0.0.0.0 youtube.com
 0.0.0.0 web.snapchat.com
+0.0.0.0 snapchat.com
+0.0.0.0 tiktok.com
+0.0.0.0 roblox.com
