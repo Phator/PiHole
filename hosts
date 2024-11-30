@@ -18,7 +18,6 @@ ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
-0.0.0.0 0.0.0.0
 
 #=====================================#
 # Title: Hosts contributed by Phator  #
@@ -30,5 +29,5 @@ ff02::3 ip6-allhosts
 0.0.0.0 tiktok.com
 0.0.0.0 www.tiktok.com
 0.0.0.0 roblox.com
-0.0.0.0 *.ch
-0.0.0.0 *.ru
+0.0.0.0 %.ch
+0.0.0.0 %.ru
