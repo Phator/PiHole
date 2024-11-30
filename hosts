@@ -155,3 +155,8 @@ ff02::3 ip6-allhosts
 0.0.0.0  tiktok.com 
 0.0.0.0  tiktokcdn.com 
 0.0.0.0  tiktokv.com
+0.0.0.0  youtube.com
+0.0.0.0  www.youtube.com
+0.0.0.0  ytimg.com
+0.0.0.0  googlevideo.com
+0.0.0.0  video.google.com
