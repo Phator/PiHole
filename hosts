@@ -26,6 +26,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  youtube.com
 0.0.0.0  snapchat.com
 0.0.0.0  web.snapchat.com
+0.0.0.0  www.snapchat.com
 0.0.0.0  tiktok.com
 0.0.0.0  www.tiktok.com
 0.0.0.0  roblox.com
@@ -144,3 +145,13 @@ ff02::3 ip6-allhosts
 0.0.0.0  zh-hk.facebook.com
 0.0.0.0  zh-tw.facebook.com0.facebook.com
 0.0.0.0  zh-tw.facebook.com
+0.0.0.0  bytedance.com
+0.0.0.0  byteoversea.com 
+0.0.0.0  ibytedtos.com 
+0.0.0.0  ibyteimg.com 
+0.0.0.0  muscdn.com 
+0.0.0.0  musemuse.cn 
+0.0.0.0  musical.ly 
+0.0.0.0  tiktok.com 
+0.0.0.0  tiktokcdn.com 
+0.0.0.0  tiktokv.com
